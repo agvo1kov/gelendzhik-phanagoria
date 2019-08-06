@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" appversion="6.0.6" apprev="17336">
+  <panorama id="node1">
+    <input leveltilesize="510" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" width="4741" levelingpitch="0" height="4741" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="4741" height="4741" predecode="0"/>
+      <level preload="0" width="2370" height="2370" predecode="0"/>
+      <level preload="0" width="1185" height="1185" predecode="0"/>
+      <level preload="0" width="592" height="592" predecode="0"/>
+      <level preload="1" width="296" height="296" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" tilt="90" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" source="" tags="output" latitude="" datetime="" comment="" copyright="" author="" info="" title="" longitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label border="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" background="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" width="180" enabled="1" backgroundalpha="1" height="20" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+      <polyhotspot description="" target="_parent" url="" title="" id="Poly01">
+        <polystring>-199.72/6.64|-199.88/-23.31|-208.96/-23.09|-208.74/6.68</polystring>
+      </polyhotspot>
+      <polyhotspot description="" target="_blank" url="" title="" id="Poly02">
+        <polystring>-183.49/7.71|-183.21/-26.86|-173.16/-27.88|-171.29/-24.18|-171.51/6.96|-173.68/8.66</polystring>
+      </polyhotspot>
+      <polyhotspot description="" target="_blank" url="" title="" id="Poly03">
+        <polystring>-153.33/7.49|-153.83/-24.82|-152.27/-28.34|-142.02/-27.15|-141.46/8.29|-151.75/8.82</polystring>
+      </polyhotspot>
+      <polyhotspot description="" target="_blank" url="" title="" id="Poly04">
+        <polystring>-218.91/-1.07|-218.94/-10.06|-217.44/-11.35|-218.39/-14.48|-220.88/-15.52|-223.46/-17.48|-229.56/-15.63|-232.91/-12.25|-232.72/-0.51|-224.39/-0.16</polystring>
+      </polyhotspot>
+      <polyhotspot description="" target="Element01" url="" title="" id="ActiveArea1">
+        <polystring>-313.7/4.27|-313.67/-15.94|-313.2/-16.28|-307.64/-16.54|-307.29/-15.58|-307.31/3.71|-307.97/4.43</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" zoomin="0" blendcolor="0x000000" softedge="0" blendtime="1" zoomoutpause="1" zoomout="0" enabled="1" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" sensitivity="8" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" hideabout="0" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" source="" tags="" latitude="" datetime="" comment="" copyright="" author="" info="" title="" longitude="" customnodeid=""/>
+  </masternode>
+</tour>
